@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "/Users/macbook/Downloads/club-app-flutter-main/linux"
+    "cmake.sourceDirectory": "/Users/macbook/Downloads/club-app-flutter-main/linux",
+    "java.configuration.updateBuildConfiguration": "interactive"
 }

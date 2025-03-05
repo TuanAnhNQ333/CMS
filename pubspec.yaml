@@ -44,7 +44,7 @@ dependencies:
   aws_s3_upload_lite: ^0.0.8
   aws_client: ^0.4.2
   carousel_slider: ^4.2.1
-  firebase_core: ^3.0.0
+  firebase_core: ^3.4.0
   firebase_messaging: ^15.0.0
   flutter_local_notifications: ^17.1.2
   path_provider: ^2.1.3
@@ -59,6 +59,8 @@ dependencies:
   syncfusion_flutter_core: ^26.1.35
   fl_chart: ^0.68.0
   crypto: ^3.0.3
+  firebase_auth: ^5.2.0
+  cloud_firestore: ^5.4.0
 
 dev_dependencies:
   flutter_test:
